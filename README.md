@@ -2,9 +2,11 @@
 
 Azzal a célall hoztam létre ezt a gyűjteményt, hogy itt ki lehessen próbálni a rendszer különböző szolgáltatásait.
 
-Angol nyelvű leírás a GitHubról:
+Angol nyelvű leírás a GitHubról és a gitről:
 
-- https://help.github.com/
+-https://help.github.com/
+
+-http://git-scm.com/documentation/ 
 
 Magyar nyelvű leírások GitHubról és gitről:
 
