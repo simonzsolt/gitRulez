@@ -4,12 +4,12 @@ Azzal a célall hoztam létre ezt a gyűjteményt, hogy itt ki lehessen próbál
 
 Angol nyelvű leírás a GitHubról és a gitről:
 
--https://help.github.com/
+- https://help.github.com/
 
--http://git-scm.com/documentation/ 
+- http://git-scm.com/documentation/ 
 
 Magyar nyelvű leírások GitHubról és gitről:
 
--http://lf.estontorise.hu/archives/288
+- http://lf.estontorise.hu/archives/288
 
--http://www.math.bme.hu/~balazs/git/miagit.html
+- http://www.math.bme.hu/~balazs/git/miagit.html
